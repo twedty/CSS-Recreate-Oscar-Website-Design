@@ -1,0 +1,63 @@
+body{
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    margin: 0px;
+    padding: 20px;
+}
+nav{
+    display:flex;
+    position:sticky;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+select{
+    background-color: black;
+    color: white;
+    border: 1px solid black;;
+}
+#drop-down{
+    background:  rgba(0,0,0,0);
+    color: black;
+    border: rgba(0,0,0,0);
+    height: 30px;
+    font-weight: bolder;
+    position: relative;
+    bottom: 480px;
+    left: 825px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+h1{
+    position: relative;
+    bottom:425px;
+    border-bottom: 1px solid gray;
+}
+.coverage{
+    position: relative;
+    text-align: center;
+    width: 50em;
+    left: 100px;
+    bottom: 250px;
+    background-color: white;
+    border-radius: 30px;
+}
+#jargon2{
+    width: 75%;
+    height: auto;
+}
+#birth{
+    padding-bottom: 100px;
+}
+.content{
+    text-align: center;
+    margin-top: -200px;
+}
+.content p{
+    width:400px;
+    text-align: center;
+    position: relative;
+    left: 300px;
+}
